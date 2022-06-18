@@ -17,3 +17,6 @@
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
 </div>
+
+
+Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e outras tecnologias. 
