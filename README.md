@@ -1,4 +1,9 @@
 ### Olá! Eu sou o Allisson Araujo 🖐️!
+<br>
+Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e outras tecnologias.
+<br>
+<br>
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/allissonaraujo)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allissonaraujodev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -19,6 +24,3 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
 </div>
 
-<br>
-
-<small>Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e outras tecnologias.</small> 
