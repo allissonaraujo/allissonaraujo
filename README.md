@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Allisson Araujo 🖐️!
-<br>
 Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e outras tecnologias.
 <br>
 <br>
