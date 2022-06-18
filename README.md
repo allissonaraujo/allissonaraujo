@@ -21,4 +21,4 @@
 
 <br>
 
-Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e outras tecnologias. 
+<small>Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e outras tecnologias.</small> 
