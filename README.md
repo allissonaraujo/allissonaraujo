@@ -14,6 +14,7 @@ Analista de Sistemas apaixonado por tecnologia, desenvolvimento web com PHP e ou
 
 
 ## Tecnologias que uso na minha rotina
+No dia a dia eu utilizo as seguintes tecnologias em meus estudos e projetos:
 
 <div style="display: inline_block"><br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
