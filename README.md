@@ -25,9 +25,17 @@ No dia a dia eu utilizo as seguintes tecnologias em meus estudos e projetos:
 </div>
 
 ## IDES Favoritas
+Essas são as IDE'S que eu utilizo:
+
 <div style="display: inline-block"><br>
 	<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="ide" align="center">
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="ide" align="center">
+</div>
+
+#### O.S 
+<div style="display: inline-block"><br>
+	<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="os" align="center">
+	<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="os" align="center">
 </div>
 
 
