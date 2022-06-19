@@ -32,7 +32,7 @@ Essas são as IDE'S que eu utilizo:
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="ide" align="center">
 </div>
 
-#### O.S 
+## O.S 
 Sistema Operacional:
 
 <div style="display: inline-block"><br>
