@@ -33,6 +33,8 @@ Essas são as IDE'S que eu utilizo:
 </div>
 
 #### O.S 
+Sistema Operacional:
+
 <div style="display: inline-block"><br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="os" align="center">
 	<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="os" align="center">
