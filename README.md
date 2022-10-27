@@ -36,8 +36,8 @@ Essas são as IDE'S que eu utilizo:
 Sistema Operacional:
 
 <div style="display: inline-block"><br>
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="os" align="center">
-	<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="os" align="center">
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="os" align="center">
+	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="os" align="center">
 </div>
 
 
