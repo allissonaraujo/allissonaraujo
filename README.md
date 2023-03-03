@@ -16,8 +16,6 @@ Fique à vontade para explorar meus projetos aqui no GitHub e entrar em contato 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allissondebrito@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allissonaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Tecnologias que uso na minha rotina
 No dia a dia eu utilizo as seguintes tecnologias em meus estudos e projetos:
