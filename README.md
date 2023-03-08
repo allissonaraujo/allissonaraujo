@@ -17,31 +17,4 @@ Fique à vontade para explorar meus projetos aqui no GitHub e entrar em contato 
 
 
 
-## Tecnologias que uso na minha rotina
-No dia a dia eu utilizo as seguintes tecnologias em meus estudos e projetos:
-
-<div style="display: inline_block"><br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap">
-	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql">
-	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" align="center">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
-</div>
-
-## IDES Favoritas
-Essas são as IDE'S que eu utilizo:
-
-<div style="display: inline-block"><br>
-	<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="ide" align="center">
-	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="ide" align="center">
-</div>
-
-## O.S 
-Sistema Operacional:
-
-<div style="display: inline-block"><br>
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="os" align="center">
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="os" align="center">
-</div>
-
 
