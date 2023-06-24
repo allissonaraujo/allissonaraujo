@@ -38,4 +38,5 @@ Se você compartilha da mesma paixão pela tecnologia e está em busca de soluç
 If you share the same passion for technology and are seeking innovative solutions, I am ready to collaborate. Let's join forces to transform the world and drive progress through technology.
 
 **Junte-se a mim nesta jornada emocionante!** 🌎🚀
+<br/>
 **Join me on this exciting journey!** 🌎🚀
