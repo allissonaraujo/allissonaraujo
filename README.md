@@ -2,7 +2,7 @@
 Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de novos desafios. Tenho experiência em várias tecnologias, incluindo PHP, JavaScript e HTML/CSS.
 
 ## Tecnologias
-<table border="0">
+<table style="border: 0px;">
   <tr>
     <td>
       <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
