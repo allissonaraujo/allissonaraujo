@@ -1,8 +1,31 @@
-## Sobre Mim / About Me
+# Bem-vindo(a) ao meu perfil!
 
-Olá me chamo Allisson! Sou um desenvolvedor apaixonado por tecnologia e inovação, e acredito firmemente que a tecnologia é o futuro. Estou constantemente em busca de novas soluções para tornar o mundo um lugar melhor.
+## Sobre mim
+Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de novos desafios. Tenho experiência em várias tecnologias, incluindo PHP, JavaScript e HTML/CSS.
 
-Hello, my name is Allisson! I'm a passionate developer who is deeply interested in technology and innovation, and I strongly believe that technology is the future. I am constantly seeking new solutions to make the world a better place.
+## Tecnologias
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 
+## Estatísticas do GitHub
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allissonaraujo&show_icons=true&theme=dark)
+
+## Contato
+
+- Email: allissondebrito@gmail.com
