@@ -18,11 +18,3 @@ Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de 
     </td>
   </tr>
 </table>
-
-
-## Estatísticas do GitHub
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allissonaraujo&theme=blue-green)
-
-## Contato
-
-- Email: allissondebrito@gmail.com
