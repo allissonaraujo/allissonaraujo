@@ -1,10 +1,8 @@
-# Bem-vindo(a) ao meu perfil!
-
 ## Sobre mim
 Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de novos desafios. Tenho experiência em várias tecnologias, incluindo PHP, JavaScript e HTML/CSS.
 
 ## Tecnologias
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,8 +21,7 @@ Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de 
 
 
 ## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allissonaraujo&show_icons=true&theme=dark)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allissonaraujo&theme=blue-green)
 
 ## Contato
 
