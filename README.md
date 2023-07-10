@@ -1,7 +1,7 @@
 ## Sobre mim
 Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de novos desafios. Tenho experiência em várias tecnologias, incluindo PHP, JavaScript e HTML/CSS.
 
-## Tecnologias
+## Tecnologias que uso
 <table style="border: 0px;">
   <tr>
     <td>
