@@ -2,7 +2,7 @@
 Eu sou um desenvolvedor apaixonado por programação e estou sempre em busca de novos desafios. Tenho experiência em várias tecnologias, incluindo PHP, JavaScript e HTML/CSS.
 
 ## Tecnologias que uso
-Essas sáo algumas das tecnologias que utilizo com frequência nos meus estudos e trabalho
+Estas são algumas das tecnologias que utilizo com frequência nos meus estudos e trabalho
 <table style="border: 0px;">
   <tr>
     <td>
