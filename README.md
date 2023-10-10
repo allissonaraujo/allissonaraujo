@@ -8,7 +8,7 @@ Apaixonado por tecnologia e programação!🚀
 
 ## 🗃️Tecnologias / Stacks
 Estas são algumas das tecnologias que utilizo com frequência nos meus estudos e trabalho
-<table style="border: 0px;">
+<table style="border: 0px !important;">
   <tr>
     <td>
       <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
