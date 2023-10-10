@@ -6,7 +6,7 @@ E atualmente residente no programa de residência em desenvolvimento de Software
 
 Apaixonado por tecnologia e programação!🚀
 
-## 🗃️Tecnologias que uso
+## 🗃️Tecnologias / Stacks
 Estas são algumas das tecnologias que utilizo com frequência nos meus estudos e trabalho
 <table style="border: 0px;">
   <tr>
