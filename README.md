@@ -1,8 +1,5 @@
 ## 📝Sobre mim
-Formado em análise e desenvolvimento de sistemas pela UNOPAR no ano de 2019. 
-
-E atualmente residente no programa de residência em desenvolvimento de Software pelo CinUFPE (Centro de Informática da Universidade de Pernambuco). O CIn-UFPE é um dos mais renomados Centros do Brasil e da América Latina e formador de grande parte da mão-de-obra mais qualificada em Tecnologia da Informação (TI) do país. Trata-se de uma instituição fundamental ao crescente mercado de tecnologia, que estimula a criatividade de seus alunos e busca constantemente soluções inovadoras para o cotidiano de pessoas e empresas.
-
+Formado em análise e desenvolvimento de sistemas pela UNOPAR no ano de 2019e Residência no programa de residência em desenvolvimento de Software pelo CinUFPE (Centro de Informática da Universidade de Pernambuco).
 
 Apaixonado por tecnologia e programação!🚀
 
