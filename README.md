@@ -1,4 +1,4 @@
 ## 📝Sobre mim
-Formado em análise e desenvolvimento de sistemas pela UNOPAR no ano de 2019 e Residência  em desenvolvimento de Software pelo Cin/UFPE (Centro de Informática da Universidade de Pernambuco).
+Graduado em Análise e desenvolvimento de sistemas & Pós Graduado no Programa de Residência em Desenvolvimento de Softwares (Cin/UFPE)
 
 Apaixonado por tecnologia e programação!🚀
